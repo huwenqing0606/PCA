@@ -1,1 +1,3 @@
-# PCA
+#PCA
+
+Principle Component Analysis
